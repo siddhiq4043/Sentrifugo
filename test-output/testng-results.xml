@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SentrifugoV1" duration-ms="29931" started-at="2020-03-13T10:46:07Z" finished-at="2020-03-13T10:46:37Z">
+    <groups>
+    </groups>
+    <test name="PIM" duration-ms="29931" started-at="2020-03-13T10:46:07Z" finished-at="2020-03-13T10:46:37Z">
+      <class name="com.Sentrifugo.PIM.testCases.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Sentrifugo.PIM.testCases.LoginTest@685cb137]" name="setUp" is-config="true" duration-ms="25517" started-at="2020-03-13T10:46:08Z" finished-at="2020-03-13T10:46:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.Sentrifugo.PIM.testCases.LoginTest@685cb137]" name="loginTest" duration-ms="3511" started-at="2020-03-13T10:46:33Z" finished-at="2020-03-13T10:46:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Sentrifugo.PIM.testCases.LoginTest@685cb137]" name="tearDown" is-config="true" duration-ms="816" started-at="2020-03-13T10:46:37Z" finished-at="2020-03-13T10:46:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Sentrifugo.PIM.testCases.LoginTest -->
+    </test> <!-- PIM -->
+  </suite> <!-- SentrifugoV1 -->
+</testng-results>
